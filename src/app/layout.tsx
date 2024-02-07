@@ -32,7 +32,7 @@ const open_sans = Open_Sans({
 
 export const metadata: Metadata = {
   title: "IA-LEX",
-  description: "Created by Fukuda Yukio",
+  description: "Created by David Baker",
 };
 
 export default function RootLayout({
