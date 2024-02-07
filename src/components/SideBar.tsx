@@ -40,7 +40,7 @@ const SideBar = () => {
           <div className="rounded-md p-[5px] bg-zinc-400 dark:bg-zinc-800">
             <IconUser className="w-4 h-4" />
           </div>
-          <span>Fukuda Yukio</span>
+          <span>David Baker</span>
         </button>
         <Link href={"/"} className="hover:text-amber-600">
           <HomeIcon className="w-5 h-5" />
