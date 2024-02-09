@@ -32,7 +32,7 @@ const open_sans = Open_Sans({
 
 export const metadata: Metadata = {
   title: "IA-LEX",
-  description: "Created by David Baker",
+  description: "Created using Next.js",
 };
 
 export default function RootLayout({
