@@ -20,17 +20,13 @@ const About = () => {
             US
           </div>
           <div className="mt-16 font-playpen_sans font-bold text-[20px] text-yellow-600 drop-shadow">
-            IA-LEX está creado por Cristina Cortés abogada laboralista y Fukuda
-            Yukio programador.
+            IA-LEX ... ...
           </div>
           <div className="mt-5 font-playpen_sans text-[15px]">
             Cristina llevaba tiempo haciendo sus bots en chatgpt y había estado
             buscando activamente alguien para que se lo desarrollará, pero nadie
             entendía la utilidad de esta herramienta y no encontraba nadie que
-            le quisiera desarrollar el proyecto, por casualidad, encontró a
-            Fukuda programador en Japón que vio el potencial de IA-LEX. Juntos
-            han creado esta potente y maravillosa herramienta de trabajo ya
-            imprescindible para cualquier abogado/a.
+            le quisiera desarrollar el proyecto. ... ...
           </div>
           <div className="absolute lg:flex self-center items-center scale-[0.8] translate-y-[200px]">
             <div className={`${styles.container}`}>
