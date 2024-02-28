@@ -23,10 +23,7 @@ const About = () => {
             IA-LEX ... ...
           </div>
           <div className="mt-5 font-playpen_sans text-[15px]">
-            Cristina llevaba tiempo haciendo sus bots en chatgpt y había estado
-            buscando activamente alguien para que se lo desarrollará, pero nadie
-            entendía la utilidad de esta herramienta y no encontraba nadie que
-            le quisiera desarrollar el proyecto. ... ...
+            IA-LEX is ... ... ... ... ... ... ... ________________________________ ... ...
           </div>
           <div className="absolute lg:flex self-center items-center scale-[0.8] translate-y-[200px]">
             <div className={`${styles.container}`}>
